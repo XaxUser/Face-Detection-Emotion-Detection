@@ -1,0 +1,7 @@
+### How to use this:
+1.  Create the files on your computer with the names I gave you.
+2.  Copy your `Face_Emotion_detection.ipynb` into the `notebooks/` folder.
+3.  (Optional) If you have your saved model weights (`.pth` file) from Colab, download it and put it in the `models/` folder.
+4.  Push to GitHub.
+
+This structure tells any recruiter or developer: **"I know how to structure a Python project, I know how to separate concerns (Model vs. Script), and I know how to document my work."**

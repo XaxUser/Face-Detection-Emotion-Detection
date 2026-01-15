@@ -1,0 +1,19 @@
+# Ignore Data
+fer2013/
+data/
+*.csv
+*.zip
+
+# Ignore System Files
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+
+# Ignore Virtual Env
+venv/
+env/
+.env
+
+# Ignore large model files (optional, remove if you want to upload the model)
+*.pth
